@@ -1,0 +1,4 @@
+*.pkl
+*.pyc
+*.gz
+/dataset/__pycache__
