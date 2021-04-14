@@ -1,0 +1,11 @@
+datasetディレクトリにはmnistデータセットが入っている。
+
+ニューラルネットワークの実装は頭にneuralnetと付く3つのファイルに入っている。
+neuralnet_test.ipynbではニューラルネットワークの実装と、その後に各重みパラメータがどのような働きをしているかを確認している。
+neuralnet_noise_test.ipynbではノイズを付加した際のニューラルネットワークの挙動について確認している。
+neuralnet_deep.ipynbでは4層のニューラルネットワークを作成し、ドロップアウトについて確認している。
+
+主成分分析に関する実装はPCA_iris.ipynbとPCA_wine.ipynbにある。
+線形判別分析に関する実装はLDA_iris.ipynbとLDA_wine.ipynbにある。
+
+いずれもPython3.8、Jupyter Notebook環境で実行している。
