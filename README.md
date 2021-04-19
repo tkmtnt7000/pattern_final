@@ -1,3 +1,4 @@
+### パターン情報学最終課題
 datasetディレクトリにはmnistデータセットが入っている。
 
 ニューラルネットワークの実装は頭にneuralnetと付く3つのファイルに入っている。
@@ -9,3 +10,5 @@ neuralnet_deep.ipynbでは4層のニューラルネットワークを作成し�
 線形判別分析に関する実装はLDA_iris.ipynbとLDA_wine.ipynbにある。
 
 いずれもPython3.8、Jupyter Notebook環境で実行している。
+
+### コピペ提出はご遠慮いただければ幸いです
